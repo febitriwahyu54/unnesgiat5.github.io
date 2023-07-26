@@ -1,0 +1,30 @@
+:root {
+    --white : #f7f7f7;
+    --biru  : #02f5e1ab;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: var(--biru);
+    min-height: 2000px;
+}
+
+article {
+    margin-top: 25%;
+    background-color: var(--white);
+    min-height: 100vh;
+}
+
+h5 {
+    font-size: 0.7rem;
+}
+
+p {
+    font-size: 1.1rem;
+}
+
+
+/* responsive laptop */
+@media screen {
+    
+}
