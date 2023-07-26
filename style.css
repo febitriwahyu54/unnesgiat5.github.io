@@ -10,7 +10,7 @@ body {
 }
 
 article {
-    margin-top: 40%;
+    margin-top: 20%;
     background-color: var(--white);
     min-height: 100vh;
 }
