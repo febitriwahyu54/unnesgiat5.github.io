@@ -27,8 +27,32 @@ p {
 /* responsive laptop */
 @media (max-width: 1366px) {
     article {
-        margin-top: 5%;
+        /* margin-top: 5%; */
         width: 800px;
         margin: 100px auto;
     }
 }
+
+/* tablet */
+@media (max-width: 768px) {
+    article {
+        width: 600px;
+        margin: 100px auto;
+    }
+}
+
+/* hp */
+@media (max-width: 578px) {
+    article {
+        width: 400px;
+        margin: 100px auto;
+    }
+
+    h1 {
+        font-size: 1.5rem;
+    }
+
+    h5 {
+        font-size: 0.9rem;
+    }
+}   
