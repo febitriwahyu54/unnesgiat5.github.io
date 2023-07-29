@@ -27,6 +27,6 @@ p {
 /* responsive laptop */
 @media screen and (min-width: 768px ) and (max-width: 1024px) {
     article {
-        margin: auto;
+        margin: 0 auto;
     }
 }
