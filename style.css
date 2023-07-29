@@ -27,6 +27,8 @@ p {
 /* responsive laptop */
 @media (max-width: 1366px) {
     article {
-        margin: 0 auto;
+        margin-top: 5%;
+        width: 800px;
+        margin: 100px auto;
     }
 }
