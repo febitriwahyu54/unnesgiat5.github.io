@@ -24,6 +24,10 @@ p {
     font-size: 1.1rem;
 }
 
+section {
+    height: 500px;
+}
+
 #komentar {
     margin-bottom: 200px;
 }
@@ -49,7 +53,7 @@ p {
 /* hp */
 @media (max-width: 578px) {
     article {
-        width: 350px;
+        width: 335px;
         margin: 75px auto;
     }
 
